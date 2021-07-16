@@ -1,0 +1,2 @@
+rootProject.name = "BackgroundTintIssueApp"
+include ':app'
